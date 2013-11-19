@@ -1,0 +1,45 @@
+http://stackoverflow.com/questions/14586328/consuming-a-wcf-service-in-jquery-via-ajax-call-in-a-different-project-cross-dos
+
+http://stackoverflow.com/questions/14586328/consuming-a-wcf-service-in-j
+
+query-via-ajax-call-in-a-different-project-cross-do
+
+http://stackoverflow.com/questions/6783264/passing-a-class-as-parameter-in-restful-wcf-service
+
+http://weblogs.asp.net/srkirkland/archive/2008/02/20/wcf-bindings-needed-for-https.aspx
+http://localhost:35798/RestServiceImpl.svc
+
+
+
+ mouli - username/ Password:  krishnamoulicgs / Passw0rd
+
+ Sankara -  username/ Password: sankarapandiancgs / Passw0rd
+
+
+
+college management system
+
+http://192.64.85.164/CmsNew/Index.aspx
+
+admin
+admin
+
+Fleet
+http://192.64.85.164/Fleet/Login.aspx
+
+
+sewbie
+http://cgs-dotnet:8050/
+
+https://cgs-dotnet:8051/
+
+siteadmin@sewbie.com
+password : admin
+
+
+ Sewbie 
+
+        Please provide the the Microsoft.Practices.Enterprise Library dll version
+        information else please provide the dll
+
+
